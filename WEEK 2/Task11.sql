@@ -1,0 +1,3 @@
+SELECT DISTINCT CONTACT FROM [2023-CS-1]
+
+SELECT DISTINCT CONVERT(nvarchar,[First Name]),CONVERT(nvarchar,[Last Name]) From [2023-CS-1]
